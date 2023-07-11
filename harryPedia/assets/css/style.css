@@ -25,13 +25,16 @@ a { color:blue; text-decoration: none;}
 .footer {
     min-height: 100px;
     border-top: solid 1px #000286;
+    background-color: rgb(10, 80, 10);
 }
 .anchors {
     border-left: solid 1px #098509;
+    background-color: #2600ff;
     padding-left: 15px;
 }
 .sidebar {
     border-right: solid 1px #df0000;
+    background-color: gold;
 }
 figure {
     text-align: center;
